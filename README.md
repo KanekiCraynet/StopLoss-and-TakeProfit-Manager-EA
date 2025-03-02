@@ -1,0 +1,1 @@
+# StopLoss-and-TakeProfit-Manager-EA
